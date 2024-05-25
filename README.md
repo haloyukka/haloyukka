@@ -2,7 +2,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=dark&utcOffset=8
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=dark&utcOffset=8)
 
 <!--
 **haloyukka/haloyukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

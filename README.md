@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 |Qiita|https://qiita.com/|
 |SlideShare|http://www.slideshare.net/|
 |Speakerdeck|https://speakerdeck.com/|
+|Discord|https://discord.com/|

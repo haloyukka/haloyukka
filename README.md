@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloyukka&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 基本情報
+|key|value|
+|---|-----|
+|Name|haloyukka|
+|Blog|----|
+|X(Twitter)|https://twitter.com/|
+|Qiita|https://qiita.com/|
+|SlideShare|http://www.slideshare.net/|
+|Speakerdeck|https://speakerdeck.com/|

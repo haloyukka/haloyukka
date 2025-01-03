@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stats
+## Stats :chart_with_upwards_trend:
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haloyukka&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=dark&utcOffset=9)

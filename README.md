@@ -1,5 +1,7 @@
+# Hi! :wave: Welcome to my GitHub! 😊
+
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
-### Hi there 👋
+## Hi there 👋
 
 ---
 
@@ -44,7 +46,13 @@ Here are some ideas to get you started:
 
 ---
 
-# My Skill (Programming Languages, Frameworks and Tools)
+## Trophy :trophy:
+
+![](https://github-profile-trophy.vercel.app/?username=haloyukka&theme=dark)
+
+---
+
+## My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=rust,python,html,css,js,typescript,react,vue,next,php,jquery,vite" /> <br />
 <img src="https://skillicons.dev/icons?i=aws,gcp" /> <br />
@@ -53,7 +61,7 @@ Here are some ideas to get you started:
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
-# NOW TRAINING
+## NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
 
@@ -71,7 +79,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 特記
+## 特記
 特記事項をハイライトするためのレイアウトが用意されています。  
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.

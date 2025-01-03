@@ -1,4 +1,4 @@
-# Hi! :wave: Welcome to my GitHub! 😊
+# Hi! 🧩 Welcome to my GitHub! 🍡
 
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
 ## Hi there 👋
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ---
 
-## My Skill (Programming Languages, Frameworks and Tools)
+## My Skill (Programming Languages, Frameworks and Tools)👾
 
 <img src="https://skillicons.dev/icons?i=rust,python,html,css,js,typescript,react,vue,next,php,jquery,vite" /> <br />
 <img src="https://skillicons.dev/icons?i=aws,gcp" /> <br />

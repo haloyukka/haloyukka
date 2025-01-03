@@ -1,7 +1,11 @@
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
 ### Hi there 👋
 
-https://monkeytype.com/profile/haloyukka
+---
+
+<https://monkeytype.com/profile/haloyukka>
+
+---
 
 <div align="center">
     <h1>
@@ -13,8 +17,9 @@ https://monkeytype.com/profile/haloyukka
     </h1>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=dark)
+---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=dark&utcOffset=8)
 
 <!--
@@ -36,6 +41,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloyukka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
@@ -62,6 +68,7 @@ Here are some ideas to get you started:
 |Speakerdeck|https://speakerdeck.com/|
 |Discord|https://discord.com/|
 
+---
 
 # 特記
 特記事項をハイライトするためのレイアウトが用意されています。  

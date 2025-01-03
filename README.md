@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gitlab,jquery,aws,vite" /> <br /><br />
-
+<img src="https://skillicons.dev/icons?i=rust,python,html,css,js,typescript,react,vue,next,php,jquery,vite" /> <br />
+<img src="https://skillicons.dev/icons?i=aws,gcp" /> <br />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /> <br />
+<img src="https://skillicons.dev/icons?i=github,vscode,docker,discord,gitlab" /> <br />
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   

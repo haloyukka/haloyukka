@@ -4,9 +4,9 @@
 
 ---
 
-<https://monkeytype.com/profile/haloyukka>
+## Typing ⌨
 
----
+<https://monkeytype.com/profile/haloyukka>
 
 <div align="center">
     <h1>
@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 ## Stats :chart_with_upwards_trend:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haloyukka&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=dark&utcOffset=9)
-![](https://github-readme-stats.vercel.app/api?username=haloyukka&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haloyukka&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=tokyonight&utcOffset=9)
 
 ---
 

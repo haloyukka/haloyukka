@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## Trophy :trophy:
 
-![](https://github-profile-trophy.vercel.app/?username=haloyukka&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=haloyukka&theme=nord)
 
 ---
 

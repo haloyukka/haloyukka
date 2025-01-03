@@ -64,22 +64,10 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=rust,docker,vscode,github,react,typescript" /> <br /><br />
 
-
-## 基本情報
-|key|value|
-|---|-----|
-|Name|haloyukka|
-|Blog|----|
-|X(Twitter)|https://twitter.com/|
-|Qiita|https://qiita.com/|
-|SlideShare|http://www.slideshare.net/|
-|Speakerdeck|https://speakerdeck.com/|
-|Discord|https://discord.com/|
-
 ---
 
 ## 特記
-特記事項をハイライトするためのレイアウトが用意されています。  
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 

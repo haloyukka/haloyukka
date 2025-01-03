@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   
 ## NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rust,docker,vscode,github,react,typescript" /> <br /><br />
 
 
 ## 基本情報

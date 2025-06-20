@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haloyukka&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
 ## Stats :chart_with_upwards_trend:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=tokyonight)

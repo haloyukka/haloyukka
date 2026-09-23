@@ -35,7 +35,7 @@
 
 ## 🛠️ Projects
 
-## Typing ⌨
+## ⌨️ Typing
 
 [monkeytype](https://monkeytype.com/profile/haloyukka)
 

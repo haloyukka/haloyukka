@@ -1,5 +1,22 @@
 # Hi! 🎲 Welcome to my GitHub! 🍡
 
+> IT Engineer / AI × Engineering / Tokyo  
+> 技術を楽しみながら、ライブ、美味しいごはん、日々の記録を残しています。
+
+## 👨‍💻 About Me
+
+## 🤖 Engineering
+
+## 🎧 Live & Music
+
+## 🍽️ Food & Drinks
+
+## 📝 Daily Log
+
+## 🛠️ Projects
+
+## 🔗 Links
+
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
 
 ---

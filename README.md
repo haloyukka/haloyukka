@@ -13,7 +13,7 @@
 
 [ライブ参加リスト](live_music/encore-log.md)
 
-[興味](live_music/Interesting.md.md)
+[興味](live_music/Interesting.md)
 
 ## 🎨Illustration
 

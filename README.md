@@ -17,6 +17,8 @@
 
 ## 🤖 Engineering
 
+> エンジニア歴〇〇年
+
 ## 🎧 Live & Music
 
 > 主にボーカロイド・DJ・Vsingerが好きです  
@@ -30,6 +32,8 @@
 ## 🍽️ Food & Drinks
 
 ## 💹 Investment
+
+> 投資歴〇〇年
 
 ## 📝 Daily Log
 

@@ -64,13 +64,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haloyukka&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## Stats :chart_with_upwards_trend:
+## 📈 Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haloyukka&theme=tokyonight)
@@ -80,13 +80,13 @@ Here are some ideas to get you started:
 
 ---
 
-## Trophy :trophy:
+## 🏆 Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=haloyukka&theme=nord)
 
 ---
 
-## My Skill (Programming Languages, Frameworks and Tools)👾
+## 💎 My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=rust,python,html,css,js,typescript,react,vue,next,php,jquery,vite" /> <br />
 <img src="https://skillicons.dev/icons?i=aws,gcp" /> <br />
@@ -95,13 +95,13 @@ Here are some ideas to get you started:
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
-## NOW TRAINING
+## 📚 NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=rust,docker,vscode,github,react,typescript" /> <br /><br />
 
 ---
 
-## 特記
+## 🔍 特記
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.

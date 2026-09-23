@@ -29,6 +29,8 @@
 
 ## 🍽️ Food & Drinks
 
+## 💹 Investment
+
 ## 📝 Daily Log
 
 ## 🛠️ Projects

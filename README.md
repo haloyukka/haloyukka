@@ -9,6 +9,14 @@
 
 ## 🎧 Live & Music
 
+> 主にボーカロイド・DJ・Vsingerが好きです  
+
+[ライブ参加リスト](live_music/encore-log.md)
+
+[興味](live_music/Interesting.md.md)
+
+## 🎨Illustration
+
 ## 🍽️ Food & Drinks
 
 ## 📝 Daily Log

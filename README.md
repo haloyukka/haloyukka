@@ -1,4 +1,4 @@
-# Hi! 🎲 Welcome to my GitHub! 🍡
+# Hi! Welcome to my GitHub! 🍧
 
 <div align="center">
     <h1>
@@ -10,10 +10,10 @@
     </h1>
 </div>
 
-> IT Engineer / AI × Engineering / Tokyo  
-> 技術を楽しみながら、ライブ、美味しいごはん、日々の記録を残しています。
-
 ## 👨‍💻 About Me
+
+> Software Engineer / AI × Engineering / Tokyo  
+> 技術を楽しみながら、ライブ、美味しいごはん、日々の記録を残しています。
 
 ## 🤖 Engineering
 

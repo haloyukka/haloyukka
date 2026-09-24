@@ -1,5 +1,7 @@
 # Hi! Welcome to my GitHub! 🍧
 
+[![typograssy](https://typograssy.kawarimidoll.deno.net/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
+
 <div align="center">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
@@ -44,10 +46,6 @@
 [monkeytype](https://monkeytype.com/profile/haloyukka)
 
 ## 🔗 Links
-
----
-
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
 
 <!--
 **haloyukka/haloyukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

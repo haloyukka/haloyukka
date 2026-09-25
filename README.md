@@ -80,16 +80,36 @@ Here are some ideas to get you started:
 
 ## 💎 My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=rust,python,html,css,js,typescript,react,vue,next,php,jquery,vite" /> <br />
-<img src="https://skillicons.dev/icons?i=aws,gcp" /> <br />
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" /> <br />
-<img src="https://skillicons.dev/icons?i=github,vscode,docker,discord,gitlab" /> <br />
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
-  
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,typescript,php" />
+
+### 📚 Library & Framework
+
+<img src="https://skillicons.dev/icons?i=opencv,qt,django,fastapi,react,vue,next,jquery,vite" />
+
+### 🌐 Platforms
+<img src="https://skillicons.dev/icons?i=github,gitlab,git,aws,gcp,firebase,nodejs" />
+
+### 🗄️ DataBase
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=npm,yarn,latex,md" />
+
+### 💾 Softwares
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,docker" />
+
+### 📱 Applications
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,figma,discord,obsidian" />
+
 ## 📚 NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=rust,docker,vscode,github,react,typescript" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rust,jenkins,docker,powershell,regex,terraform,raspberrypi,latex" />
 
 ---
 

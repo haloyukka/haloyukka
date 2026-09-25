@@ -70,14 +70,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haloyukka&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=tokyonight&utcOffset=9)
 
----
-
-## 🏆 Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=haloyukka&theme=nord)
-
----
-
 ## 💎 My Skill (Programming Languages, Frameworks and Tools)
 
 ### 💻 Programming Languages

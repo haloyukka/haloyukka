@@ -1,0 +1,36 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#080A12"/>
+    <stop offset="0.55" stop-color="#111522"/>
+    <stop offset="1" stop-color="#080A12"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="200" y1="80" x2="980" y2="290" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00E5FF"/>
+    <stop offset="0.5" stop-color="#8B5CF6"/>
+    <stop offset="1" stop-color="#FF4FD8"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="10" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+<circle cx="108" cy="88" r="4" fill="#00E5FF"/>
+<circle cx="1092" cy="265" r="4" fill="#FF4FD8"/>
+<path d="M60 82H390" stroke="#00E5FF" stroke-opacity=".28"/>
+<path d="M810 280H1140" stroke="#FF4FD8" stroke-opacity=".28"/>
+
+<text x="70" y="92" fill="#00E5FF" font-family="monospace" font-size="20">HALO // SYSTEM ONLINE</text>
+
+<text x="70" y="190" fill="#F4F7FF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">LIFE.OS</text>
+<rect x="66" y="215" width="785" height="4" rx="2" fill="url(#neon)" filter="url(#glow)"/>
+
+<text x="70" y="266" fill="#C9D2E3" font-family="monospace" font-size="24">ENGINEER × AI × MUSIC × TOKYO</text>
+<text x="70" y="306" fill="#6F7A90" font-family="monospace" font-size="17">PERSONAL DIGITAL ARCHIVE / BUILD / LIVE / EAT / CREATE / RECORD</text>
+
+<rect x="940" y="84" width="180" height="48" rx="24" stroke="url(#neon)" stroke-width="2"/>
+<circle cx="971" cy="108" r="7" fill="#00E5FF" filter="url(#glow)"/>
+<text x="992" y="115" fill="#F4F7FF" font-family="monospace" font-size="16">ONLINE</text>
+</svg>

@@ -1,123 +1,143 @@
-# Hi! Welcome to my GitHub! 🍧
-
-[![typograssy](https://typograssy.kawarimidoll.deno.net/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
-
 <div align="center">
-    <h1>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-    </h1>
+
+<img src="./assets/halo.svg" alt="HALO / LIFE.OS" width="100%" />
+
+<br/>
+
+### `ENGINEER × AI × MUSIC × TOKYO`
+
+コード、音楽、ライブ、グルメ、日々の記録をまとめる個人アーカイブ。
+
+<br/>
+
+![status](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=080A12)
+![location](https://img.shields.io/badge/LOCATION-TOKYO-8B5CF6?style=for-the-badge&labelColor=080A12)
+![mode](https://img.shields.io/badge/MODE-BUILDING-FF4FD8?style=for-the-badge&labelColor=080A12)
+
 </div>
-
-## 👨‍💻 About Me
-
-> Software Engineer / AI × Engineering / Tokyo  
-> 技術を楽しみながら、ライブ、美味しいごはん、日々の記録を残しています。
-
-## 🤖 Engineering
-
-> エンジニア歴〇〇年
-
-## 🎧 Live & Music
-
-> 主にボーカロイド・DJ・Vsingerが好きです  
-
-* [ライブ参加リスト](live_music/encore-log.md)
-* [興味](live_music/Interesting.md)
-
-## 🎨Illustration
-
-## 🍽️ Food & Drinks
-
-## 💹 Investment
-
-> 投資歴〇〇年
-
-## 📝 Daily Log
-
-## 🛠️ Projects
-
-## ⌨️ Typing
-
-* 使用キーボード：REALFORCE R3S キーボード 有線 フル 45g 英語配列 ブラック R3SB11
-* [monkeytype](https://monkeytype.com/profile/haloyukka)
-
-## 🔗 Links
-
-<!--
-**haloyukka/haloyukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 📈 Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haloyukka&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haloyukka&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haloyukka&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=tokyonight&utcOffset=9)
-
-## 💎 My Skill
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,typescript,php" />
-
-### 📚 Library & Framework
-
-<img src="https://skillicons.dev/icons?i=opencv,qt,django,fastapi,react,vue,next,jquery,vite" />
-
-### 🌐 Platforms
-<img src="https://skillicons.dev/icons?i=github,gitlab,git,aws,gcp,firebase,nodejs" />
-
-### 🗄️ DataBase
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=npm,yarn,latex,md" />
-
-### 💾 Softwares
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,docker" />
-
-### 📱 Applications
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,figma,discord,obsidian" />
-
-## 📚 NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=rust,jenkins,docker,powershell,regex,terraform,raspberrypi,latex" />
 
 ---
 
-## 🔍 特記
+## // NOW
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+| | Current |
+|---|---|
+| 🎧 Listening | Vocaloid / Project Sekai |
+| 🎤 Live | Magical Mirai / Vocaloid events |
+| 💻 Building | AI × Engineering × Automation |
+| 🍜 Exploring | Tokyo food & drinks |
+| 🎨 Creating | Illustration / Generative AI |
+| 📓 Recording | Daily logs & personal archive |
 
-> [!TIP]
-> Optional information to help a user be more successful.
+---
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+## // EXPLORE
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+<table>
+<tr>
+<td width="50%">
 
-> [!CAUTION]
-> Negative potential consequences of an action.
+### 💻 ENGINEERING
+AI / Python / Cloud / Automation
+
+[→ Explore Engineering](./engineering/)
+
+</td>
+<td width="50%">
+
+### 🎤 LIVE
+Setlists / Venues / Memories
+
+[→ Explore Live Archive](./live-archive/)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎧 MUSIC
+Vocaloid / Favorite tracks / Playlists
+
+[→ Explore Music Archive](./music-archive/)
+
+</td>
+<td>
+
+### 🍜 FOOD
+Tokyo restaurants / Cafes / Bars
+
+[→ Explore Food Archive](./food-archive/)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎨 CREATIVE
+Illustration / Image generation / Design
+
+[→ Explore Creative Archive](./creative-archive/)
+
+</td>
+<td>
+
+### 📓 DAILY
+Notes / Events / Small discoveries
+
+[→ Explore Daily Log](./daily-log/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## // RECENT SIGNALS
+
+```text
+2026.09  GitHub LIFE.OS redesign
+2026.09  Live setlist archive expansion
+2026.09  Tokyo food database started
+2026.09  AI × engineering workflow experiments
+```
+
+---
+
+## // LIFE DATABASE
+
+```text
+LIVE COUNT      24
+FOOD LOG        37
+PROJECTS        12
+CREATIVE LOG    18
+STATUS          ● ONLINE
+```
+
+> 数字はサンプルです。実データに置き換えてください。
+
+---
+
+## // TECH
+
+`Python` `GCP` `AWS` `SQL` `GitHub` `Generative AI` `Automation`
+
+---
+
+## // DESIGN SYSTEM
+
+- Background: `#080A12`
+- Surface: `#111522`
+- Cyan: `#00E5FF`
+- Purple: `#8B5CF6`
+- Pink: `#FF4FD8`
+- Text: `#F4F7FF`
+
+---
+
+<div align="center">
+
+`HALO / LIFE.OS — personal digital archive`
+
+</div>

@@ -25,9 +25,8 @@
 
 > 主にボーカロイド・DJ・Vsingerが好きです  
 
-[ライブ参加リスト](live_music/encore-log.md)
-
-[興味](live_music/Interesting.md)
+* [ライブ参加リスト](live_music/encore-log.md)
+* [興味](live_music/Interesting.md)
 
 ## 🎨Illustration
 
@@ -43,7 +42,8 @@
 
 ## ⌨️ Typing
 
-[monkeytype](https://monkeytype.com/profile/haloyukka)
+* 使用キーボード：REALFORCE R3S キーボード 有線 フル 45g 英語配列 ブラック R3SB11
+* [monkeytype](https://monkeytype.com/profile/haloyukka)
 
 ## 🔗 Links
 

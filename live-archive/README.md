@@ -2,6 +2,10 @@
 
 参加したライブ、セットリスト、会場、感想を蓄積するアーカイブ。
 
+## History
+
+- [参加履歴](./encore-log.md)
+
 ## 2026
 
 - [Magical Mirai 2026](./2026/magical-mirai-2026.md)

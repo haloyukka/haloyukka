@@ -2,6 +2,11 @@
 
 このリポジトリは個人アーカイブとして運用します。
 
+## Git Workflow
+
+- `main` へ直接コミットせず、ブランチ → Pull Request → Squash and merge で取り込む
+- 手順・命名規則・トラブル対応: [docs/git-workflow.md](./docs/git-workflow.md)
+
 ## Naming
 
 - Markdown: lowercase + kebab-case

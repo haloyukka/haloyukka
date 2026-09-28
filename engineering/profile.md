@@ -31,14 +31,28 @@
 |---|---|
 | Languages | C / C++ / C# / Java / HTML / CSS / JavaScript / TypeScript / PHP |
 | Libraries & Frameworks | OpenCV / Qt / Django / FastAPI / React / Vue / Next.js / jQuery / Vite |
-| Platforms | GitLab / Git / Firebase / Node.js |
+| Platforms | Github / GitLab / Git / Firebase / Node.js |
 | Databases | MySQL / PostgreSQL / SQLite |
 | OS & Infra | Docker / Linux / Ubuntu / Red Hat / Windows |
 | Tools | npm / Yarn / LaTeX / Markdown / VS Code / Visual Studio / Eclipse / Figma / Discord / Obsidian |
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,typescript,php" alt="C, C++, C#, Java, HTML, CSS, JavaScript, TypeScript, PHP" /><br/>
-<img src="https://skillicons.dev/icons?i=opencv,qt,django,fastapi,react,vue,next,jquery,vite" alt="OpenCV, Qt, Django, FastAPI, React, Vue, Next.js, jQuery, Vite" /><br/>
-<img src="https://skillicons.dev/icons?i=gitlab,git,firebase,nodejs,mysql,postgres,sqlite,docker,linux" alt="GitLab, Git, Firebase, Node.js, MySQL, PostgreSQL, SQLite, Docker, Linux" />
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,typescript,php" />
+
+### Library & Framework
+<img src="https://skillicons.dev/icons?i=opencv,qt,django,fastapi,react,vue,next,jquery,vite" />
+
+### Platforms
+<img src="https://skillicons.dev/icons?i=github,gitlab,git,aws,gcp,firebase,nodejs" />
+
+### DataBase
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+### OS & Infra
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,redhat" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=npm,yarn,latex,md,vscode,visualstudio,eclipse,figma,discord,obsidian" />
 
 ### Learning
 

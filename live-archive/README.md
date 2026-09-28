@@ -5,6 +5,7 @@
 - 1公演1ファイルで [`setlists/`](./setlists/) に保存（年 → イベント → 公演）
 - 規約: [CLAUDE.md](./CLAUDE.md) / テンプレート: [templates/setlist.md](./templates/setlist.md)
 - 参加履歴: [encore-log.md](./encore-log.md)
+- 推し・気になるアーティスト: [Interesting.md](./Interesting.md)
 
 Attended: ✅ 参加 / — 不参加　Verified: ✅ 確認済み / ⏳ 未確認
 

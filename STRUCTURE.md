@@ -10,7 +10,10 @@ haloyukka/
 │  └─ palette.md
 ├─ engineering/
 ├─ live-archive/
-│  └─ 2026/
+│  ├─ 2026/
+│  ├─ setlists/
+│  │  └─ 2026/
+│  └─ templates/
 ├─ music-archive/
 ├─ food-archive/
 │  └─ data/

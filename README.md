@@ -95,9 +95,15 @@ Tokyo restaurants / Cafes / Bars
 
 ---
 
-## // TECH
+## // ENGINEER
 
-`Python` `GCP` `AWS` `SQL` `GitHub` `Generative AI` `Automation`
+> Software Engineer / AI × Engineering / Tokyo
+
+- **Focus:** Generative AI の業務活用 / Python による自動化 / GCP・AWS / SQL・データ処理
+- **Main Stack:** `Python` `SQL` `GCP` `AWS` `GitHub` `Generative AI`
+- **Project:** [LIFE.OS](./engineering/projects/life-os.md) — このリポジトリ自体を、AI 半自動生成つきの個人データ基盤として設計
+
+[→ Engineer Profile](./engineering/profile.md)
 
 ---
 

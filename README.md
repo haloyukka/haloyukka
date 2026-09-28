@@ -18,24 +18,11 @@
 
 ---
 
-## // NOW
-
-| | Current |
-|---|---|
-| 🎧 Listening | Vocaloid / Project Sekai |
-| 🎤 Live | Magical Mirai / Vocaloid events |
-| 💻 Building | AI × Engineering × Automation |
-| 🍜 Exploring | Tokyo food & drinks |
-| 🎨 Creating | Illustration / Generative AI |
-| 📓 Recording | Daily logs & personal archive |
-
----
-
 ## // EXPLORE
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 ENGINEERING
 AI / Python / Cloud / Automation
@@ -43,7 +30,7 @@ AI / Python / Cloud / Automation
 [→ Explore Engineering](./engineering/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎤 LIVE
 Setlists / Venues / Memories
@@ -67,10 +54,10 @@ Vocaloid / Favorite tracks / Playlists
 </td>
 <td>
 
-### 🍜 FOOD
-Tokyo restaurants / Cafes / Bars
+### 🎨 CREATIVE
+Illustration / Image generation / Design
 
-[→ Explore Food Archive](./food-archive/)
+[→ Explore Creative Archive](./creative-archive/)
 
 </td>
 </tr>
@@ -78,18 +65,18 @@ Tokyo restaurants / Cafes / Bars
 <tr>
 <td>
 
-### 🎨 CREATIVE
-Illustration / Image generation / Design
-
-[→ Explore Creative Archive](./creative-archive/)
-
-</td>
-<td>
-
 ### 📓 DAILY
 Notes / Events / Small discoveries
 
 [→ Explore Daily Log](./daily-log/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍜 FOOD
+Tokyo restaurants / Cafes / Bars
+
+[→ Explore Food Archive](./food-archive/)
 
 </td>
 </tr>

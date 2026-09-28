@@ -56,9 +56,9 @@
 
 ---
 
-## // GITHUB
-
-<img src="https://github-readme-stats.vercel.app/api?username=haloyukka&show_icons=true&hide_border=true&bg_color=080A12&title_color=00E5FF&icon_color=8B5CF6&text_color=F4F7FF" alt="haloyukka の GitHub 統計" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haloyukka&layout=compact&hide_border=true&bg_color=080A12&title_color=00E5FF&text_color=F4F7FF" alt="haloyukka のよく使う言語" />
-
-> 統計カードは外部サービス（github-readme-stats）で生成しているため、一時的に表示されないことがあります。
+## // GITHUB STATS
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=tokyonight&utcOffset=9)

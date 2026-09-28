@@ -12,17 +12,19 @@ AI・Python・Cloud・Automation を中心に、技術検証や業務改善ア�
 - Documentation
 - Testing
 
+## Profile
+
+- [Engineer Profile](./profile.md)（Summary / Skills / Projects / GitHub）
+
 ## Project Index
 
 | Project | Type | Status |
 |---|---|---|
-| AI Documentation Workflow | AI / Automation | 🟢 Active |
-| Test Automation Notes | Testing | 🟡 Research |
-| Cloud Data Pipeline | Data Engineering | 🔵 Archive |
+| [LIFE.OS](./projects/life-os.md) | Personal data archive / AI-assisted content pipeline | 🟢 Active |
 
 ## Format
 
-各テーマは以下の形式で残します。
+各プロジェクトは `projects/<project-name>.md` に以下の形式で残します。
 
 ```md
 # Title
@@ -33,4 +35,20 @@ AI・Python・Cloud・Automation を中心に、技術検証や業務改善ア�
 ## Implementation
 ## Result
 ## Lessons Learned
+```
+
+## Certifications / Outputs
+
+資格・技術記事・登壇を追加する場合は、[profile.md](./profile.md) に `## // CERTIFICATIONS` / `## // OUTPUTS` セクションを作り、実在するものだけを載せる（空のセクションは置かない）。
+
+```md
+## // CERTIFICATIONS
+
+| Name | Year |
+|---|---|
+| 資格名 | YYYY |
+
+## // OUTPUTS
+
+- [記事タイトル](URL) — 媒体 / YYYY-MM
 ```

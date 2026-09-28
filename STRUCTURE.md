@@ -9,6 +9,8 @@ haloyukka/
 │  ├─ halo.svg
 │  └─ palette.md
 ├─ engineering/
+│  ├─ profile.md
+│  └─ projects/
 ├─ live-archive/
 │  ├─ 2026/
 │  ├─ setlists/

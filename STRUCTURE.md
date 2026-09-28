@@ -18,10 +18,8 @@ haloyukka/
 ├─ food-archive/
 │  └─ data/
 ├─ creative-archive/
-├─ daily-log/
-│  └─ 2026/
-└─ .github/
-   └─ workflows/
+└─ daily-log/
+   └─ 2026/
 ```
 
 ## Recommended production setup

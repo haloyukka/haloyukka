@@ -1,5 +1,7 @@
 # HALO / LIFE.OS Color Palette
 
+LIFE.OS のカラートークンの正本。ヒーロー画像（`halo.svg`）やバッジの色はここに合わせる。
+
 | Token | Hex | Use |
 |---|---:|---|
 | Background | `#080A12` | Main background |

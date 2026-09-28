@@ -48,7 +48,8 @@ AI / Python / Cloud / Automation
 ### 🎤 LIVE
 Setlists / Venues / Memories
 
-[→ Explore Live Archive](./live-archive/)
+[→ Explore Live Archive](./live-archive/)<br/>
+[→ Favorites / Interesting](./live-archive/Interesting.md)
 
 </td>
 </tr>
@@ -105,34 +106,25 @@ Notes / Events / Small discoveries
 
 ---
 
-## // LIFE DATABASE
-
-```text
-LIVE COUNT      24
-FOOD LOG        37
-PROJECTS        12
-CREATIVE LOG    18
-STATUS          ● ONLINE
-```
-
-> 数字はサンプルです。実データに置き換えてください。
-
----
-
 ## // TECH
 
 `Python` `GCP` `AWS` `SQL` `GitHub` `Generative AI` `Automation`
 
 ---
 
-## // DESIGN SYSTEM
+## // TYPING
 
-- Background: `#080A12`
-- Surface: `#111522`
-- Cyan: `#00E5FF`
-- Purple: `#8B5CF6`
-- Pink: `#FF4FD8`
-- Text: `#F4F7FF`
+- Keyboard: REALFORCE R3S（有線 / フル / 45g / 英語配列 / ブラック / R3SB11）
+- Record: [monkeytype](https://monkeytype.com/profile/haloyukka)
+
+---
+
+## // LINKS
+
+| Service | Link |
+|---|---|
+| GitHub | [@haloyukka](https://github.com/haloyukka) |
+| monkeytype | [haloyukka](https://monkeytype.com/profile/haloyukka) |
 
 ---
 

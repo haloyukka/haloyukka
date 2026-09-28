@@ -17,7 +17,11 @@ tags:
 
 # 🎤 初音ミク「マジカルミライ 2026」
 
-マジカルミライ2026のライブセットリストまとめ。
+マジカルミライ2026のライブセットリストまとめ（全会場・昼夜の比較）。
+
+公演ごとの詳細（Producer / Vocal / YouTube）:
+
+- [TOKYO 2026-08-29 夜公演](../setlists/2026/magical-mirai/2026-08-29_magical-mirai-tokyo-night.md)
 
 ## 🗺 開催地
 

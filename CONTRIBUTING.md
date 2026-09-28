@@ -6,7 +6,7 @@
 
 - Markdown: lowercase + kebab-case
 - Date log: `YYYY-MM.md`
-- Live entry: `event-name.md`
+- Live entry: `live-archive/setlists/YYYY/event-slug/YYYY-MM-DD_event-location-performance.md`（詳細は [live-archive/CLAUDE.md](./live-archive/CLAUDE.md)）
 - Asset: `category-name.svg`
 
 ## Writing

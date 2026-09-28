@@ -85,29 +85,6 @@ Tokyo restaurants / Cafes / Bars
 
 ---
 
-## // RECENT SIGNALS
-
-```text
-2026.09  GitHub LIFE.OS redesign
-2026.09  Live setlist archive expansion
-2026.09  Tokyo food database started
-2026.09  AI × engineering workflow experiments
-```
-
----
-
-## // ENGINEER
-
-> Software Engineer / AI × Engineering / Tokyo
-
-- **Focus:** Generative AI の業務活用 / Python による自動化 / GCP・AWS / SQL・データ処理
-- **Main Stack:** `Python` `SQL` `GCP` `AWS` `GitHub` `Generative AI`
-- **Project:** [LIFE.OS](./engineering/projects/life-os.md) — このリポジトリ自体を、AI 半自動生成つきの個人データ基盤として設計
-
-[→ Engineer Profile](./engineering/profile.md)
-
----
-
 ## // TYPING
 
 - Keyboard: REALFORCE R3S（有線 / フル / 45g / 英語配列 / ブラック / R3SB11）

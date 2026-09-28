@@ -5,6 +5,10 @@ haloyukka/
 ├─ README.md
 ├─ STRUCTURE.md
 ├─ CONTRIBUTING.md
+├─ .github/
+│  └─ pull_request_template.md
+├─ docs/
+│  └─ git-workflow.md
 ├─ assets/
 │  ├─ halo.svg
 │  └─ palette.md

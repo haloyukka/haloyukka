@@ -6,7 +6,6 @@
 
 | アーティスト | 楽曲一覧 |
 | --- | --- |
-| アーティスト一覧 | [一覧を見る](songs/_artist_index.md) |
 | Deco*27 | [deco27.csv](songs/data/deco27.csv) |
 | junky | [junky.csv](songs/data/junky.csv) |
 | wowaka | [wowaka.csv](songs/data/wowaka.csv) |

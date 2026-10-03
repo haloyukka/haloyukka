@@ -58,7 +58,6 @@
 | - | Skrillex | <https://x.com/Skrillex> | <https://skrillex.com/> |
 | - | moeshop | <https://x.com/korewamoe | <https://www.moeshop.jp/> |
 | - | picco | <https://x.com/picco_xxx> | <https://www.youtube.com/picco0817> |
-| - | 東方Project | <https://twitter.com/touhou_project> | <https://touhou.jp> |
 | LanPage | somunia | <https://x.com/she_is_wired> | <https://www.youtube.com/@somunia_official> |
 | LanPage | gaburyu | <https://x.com/gabustep> | <https://gaburyu.com/> |
 | LanPage | Yaca | <https://x.com/YACAINDAHOUSE> | <https://yacaindahouse.com/> |

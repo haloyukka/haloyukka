@@ -25,8 +25,8 @@
 ### 💻 ENGINEERING
 AI / Python / Cloud / Automation
 
-[→ Explore Engineering](./engineering/)<br/>
-[→ Engineer Profile / エンジニアプロファイル](./engineering/profile.md)
+[→ Explore Engineering](./engineering-archive/)<br/>
+[→ Engineer Profile / エンジニアプロファイル](./engineering-archive/profile.md)
 
 </td>
 <td width="50%" valign="top">

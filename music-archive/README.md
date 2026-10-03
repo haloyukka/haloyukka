@@ -1,4 +1,4 @@
-# Music Archive
+# 🎧️Music Archive
 
 お気に入りの楽曲を、原曲を基準に管理するMarkdownアーカイブです。
 

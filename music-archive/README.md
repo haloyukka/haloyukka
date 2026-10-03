@@ -16,4 +16,4 @@
 
 ## セトリ
 
-- [セトリのテンプレート](setlists/_template.md)
+- [セトリのテンプレート](templates/setlists/_template.md)

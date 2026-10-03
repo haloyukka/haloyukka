@@ -26,7 +26,7 @@
 AI / Python / Cloud / Automation
 
 [→ Explore Engineering](./engineering/)<br/>
-[→ Engineer Profile](./engineering/profile.md)
+[→ Engineer Profile / エンジニアプロファイル](./engineering/profile.md)
 
 </td>
 <td width="50%" valign="top">
@@ -37,7 +37,7 @@ Setlists / Venues / Memories
 
 [→ Explore Live Archive](./live-archive/)<br/>
 [→ History / 参加履歴](./live-archive/encore-log.md)<br/>
-[→ Favorites / Interesting](./live-archive/Interesting.md)
+[→ Interesting / 関心事](./live-archive/Interesting.md)
 
 </td>
 </tr>

@@ -71,10 +71,10 @@ Notes / Events / Small discoveries
 </td>
 <td width="50%" valign="top">
 
-### 🍜 FOOD
-Tokyo restaurants / Cafes / Bars
+### 📈 INVESTMENT
+Stocks / Portfolio / Learning
 
-[→ Explore Food Archive](./food-archive/)
+[→ Explore Investment](./investment/)
 
 </td>
 </tr>

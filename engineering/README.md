@@ -2,16 +2,6 @@
 
 AI・Python・Cloud・Automation を中心に、技術検証や業務改善アイデアをまとめる場所。
 
-## Categories
-
-- Generative AI
-- Python
-- GCP / AWS
-- SQL / Data Engineering
-- Automation
-- Documentation
-- Testing
-
 ## Profile
 
 - [Engineer Profile](./profile.md)（Summary / Skills / Projects / GitHub）

@@ -74,7 +74,7 @@ Notes / Events / Small discoveries
 ### 📈 INVESTMENT
 Stocks / Portfolio / Learning
 
-[→ Explore Investment](./investment/)
+[→ Explore Investment](./investment-archive/)
 
 </td>
 </tr>

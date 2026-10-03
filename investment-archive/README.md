@@ -1,3 +1,3 @@
-# 📈 INVESTMENT
+# 📈 Investment Archive
 
 Stocks / Portfolio / Learning

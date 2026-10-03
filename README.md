@@ -36,8 +36,7 @@ Setlists / Venues / Memories
 参加履歴: encore-log.md
 
 [→ Explore Live Archive](./live-archive/)<br/>
-[→ History / 参加履歴](./live-archive/encore-log.md)<br/>
-[→ Interesting / 関心事](./live-archive/Interesting.md)
+[→ History / 参加履歴](./live-archive/encore-log.md)
 
 </td>
 </tr>
@@ -49,6 +48,7 @@ Setlists / Venues / Memories
 Vocaloid / Favorite tracks / Playlists
 
 [→ Explore Music Archive](./music-archive/)
+[→ Interesting / 関心事](./music-archive/Interesting.md)
 
 </td>
 <td>

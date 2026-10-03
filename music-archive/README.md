@@ -1,26 +1,20 @@
 # Music Archive
 
-お気に入りの楽曲を、原曲を基準に管理するMarkdownアーカイブです。YouTube動画、カラオケ用メモ、曲の組み合わせを記録します。
+お気に入りの楽曲を、原曲を基準に管理するMarkdownアーカイブです。
 
 ## アーティスト別一覧
 
 | アーティスト | 楽曲一覧 |
-|---|---|
+| --- | --- |
 | アーティスト一覧 | [一覧を見る](songs/_artist_index.md) |
+| Deco*27 | [deco27.csv](songs/data/deco27.csv) |
+| junky | [junky.csv](songs/data/junky.csv) |
+| wowaka | [wowaka.csv](songs/data/wowaka.csv) |
+| かいりきベア | [かいりきベア.csv](songs/data/かいりきベア.csv) |
+| サツキ | [サツキ.csv](songs/data/サツキ.csv) |
+| すりぃ | [すりぃ.csv](songs/data/すりぃ.csv) |
+| ナナホシ管弦楽団 | [ナナホシ管弦楽団.csv](songs/data/ナナホシ管弦楽団.csv) |
 
 ## セトリ
 
 - [セトリのテンプレート](setlists/_template.md)
-
-## 追加方法
-
-1. `songs/_template.md` をコピーし、`songs/アーティスト名/曲名-動画公開年.md` に保存する。
-2. 曲の情報とYouTubeリンクを記入する。年は**最初に登録した動画の公開年**を使用し、後から動画を追加しても変えない。
-3. アーティストの `README.md` に曲へのリンクを1行追加する。新しいアーティストなら `songs/_artist_index_template.md` をコピーし、このトップページにも追加する。
-4. 必要に応じて `setlists/` にセトリを作り、曲ファイルをリンクする。
-
-詳しいルールは [docs/運用ルール.md](docs/運用ルール.md) を参照してください。
-
-## 探し方
-
-アーティストからたどる場合は上の一覧を使います。ジャンル・雰囲気から探す場合はGitHubのリポジトリ内検索で `genre:` や `moods:` とキーワードを検索してください。検索結果はMarkdownの記載内容にも依存します。

@@ -33,7 +33,6 @@ AI / Python / Cloud / Automation
 
 ### 🎤 LIVE
 Setlists / Venues / Memories
-参加履歴: encore-log.md
 
 [→ Explore Live Archive](./live-archive/)<br/>
 [→ History / 参加履歴](./live-archive/encore-log.md)

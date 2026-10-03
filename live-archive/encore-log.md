@@ -116,7 +116,7 @@
 ### ポケモン feat. 初音ミク VOLTAGE Live!
 
 * DAY.1｜2026/03/21(土) 18:00 開演
-* DAY.2｜2026/3/22(日) 18:00 開演
+* DAY.2｜2026/03/22(日) 18:00 開演
 * LaLa arena TOKYO-BAY(千葉県)
 
 ### 初音ミク LAWSON 50th Anniversary Special LIVE

@@ -18,21 +18,21 @@ AI・Python・Cloud・Automation を中心に、技術検証や業務改善ア�
 
 ## Project Index
 
-| Project | Type | Status |
-|---|---|---|
-| [LIFE.OS](./projects/life-os.md) | Personal data archive / AI-assisted content pipeline | 🟢 Active |
-
-|プロジェクト名|Pages|GitHub|備考・関連リンク|
+|Project|Pages|GitHub|備考・関連リンク|
 |:--|:--|:--|:--|
-|tetris|https://haloyukka.github.io/tetris/|https://github.com/haloyukka/tetris|-|
-|minecraft|非公開|https://github.com/haloyukka/minecraft|[suspiciouslinkremoved]|
-|サンプルサイト|https://haloyukka.github.io/design-share-lp-retro/|https://github.com/haloyukka/design-share-lp-retro|[suspiciouslinkremoved]|
-|typing-test-app|非公開|https://github.com/haloyukka/typing-test-app|-|
-|ikano-maker|非公開|https://github.com/haloyukka/ikano-maker|-|
-|InvestmentSimulatorApp|非公開|-|-|
-|オンラインリバーシゲーム|非公開|https://github.com/haloyukka/dev-othello-2025-06-22|-|
-|FRAME-SCRAMBLER|https://haloyukka.github.io/FRAME-SCRAMBLER/|https://github.com/haloyukka/FRAME-SCRAMBLER|-|
-|circle_countdown_timer|https://haloyukka.github.io/circle_countdown_timer/|https://github.com/haloyukka/circle_countdown_timer|-|
+| [LIFE.OS](./projects/life-os.md) |-|-| 🟢 Active |
+|circle_countdown_timer|<https://haloyukka.github.io/circle_countdown_timer/>|<https://github.com/haloyukka/circle_countdown_timer>|-|
+|circular_audio_spectrum|<https://haloyukka.github.io/circular_audio_spectrum/>|<https://github.com/haloyukka/circular_audio_spectrum>|-|
+|Live-clock-blood|<https://haloyukka.github.io/Live-clock-blood/>|<https://github.com/haloyukka/Live-clock-blood>|-|
+|FRAME-SCRAMBLER|<https://haloyukka.github.io/FRAME-SCRAMBLER/>|<https://github.com/haloyukka/FRAME-SCRAMBLER>|-|
+|hakoiri-musume|<https://haloyukka.github.io/hakoiri-musume/>|<https://github.com/haloyukka/hakoiri-musume>|-|
+|design-share-lp-retro|<https://haloyukka.github.io/design-share-lp-retro/>|<https://github.com/haloyukka/design-share-lp-retro>|-|
+|tetris|<https://haloyukka.github.io/tetris/>|<https://github.com/haloyukka/tetris>|-|
+|minecraft|🔴Private|<https://github.com/haloyukka/minecraft>|-|
+|typing-test-app|🔴Private|<https://github.com/haloyukka/typing-test-app>|-|
+|ikano-maker|🔴Private|<https://github.com/haloyukka/ikano-maker>|-|
+|オンラインリバーシゲーム|🔴Private|<https://github.com/haloyukka/dev-othello-2025-06-22>|-|
+|InvestmentSimulatorApp|🔴Private|-|-|
 
 ## Format
 

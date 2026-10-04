@@ -70,4 +70,7 @@
 | - | kz(livetune) | <https://x.com/kz_lt> | <https://www.youtube.com/@kzlivetune> |
 | - | yuigot | <https://x.com/ygt_jpn> | <https://linktr.ee/yuigot> |
 | - | 八王子P | <https://x.com/8_Prince> | <https://www.youtube.com/@hachiojip> |
-
+|-|Orangestar|<https://x.com/MikanseiP>|<https://www.youtube.com/@OrangestarAS>|
+|-|鬱P/Utsu-P|<https://x.com/utsupii>|<https://www.youtube.com/@utsupofficial>|
+|-|原口沙輔|<https://x.com/sasuke_maschine>|<https://sasukeharaguchi.com/>|
+|-|フロクロ(Frog96)|<https://x.com/2r96>|<https://www.youtube.com/@frog96_>|

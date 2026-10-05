@@ -1,5 +1,7 @@
 # 📓 Daily Log
 
+[← HOME](../README.md)
+
 日々の気づき、考えたことを短く記録します。
 
 ## Rule

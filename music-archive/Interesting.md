@@ -1,6 +1,6 @@
 # Interesting
 
-[READMEに戻る](../README.md)
+[← HOME](../README.md)
 
 ## 【VSinger / VTuber】
 

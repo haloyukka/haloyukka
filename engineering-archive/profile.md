@@ -33,8 +33,8 @@
 | Libraries & Frameworks | OpenCV / Qt / Django / FastAPI / React / Vue / Next.js / jQuery / Vite |
 | Platforms | Github / GitLab / Git / Firebase / Node.js |
 | Databases | MySQL / PostgreSQL / SQLite |
-| OS & Infra | Docker / Linux / Ubuntu / Red Hat / Windows |
-| Tools | npm / Yarn / LaTeX / Markdown / VS Code / Visual Studio / Eclipse / Figma / Discord / Obsidian |
+| OS & Infra | Docker / Linux / Ubuntu / Red Hat / mint / Windows |
+| Tools | npm / Yarn / LaTeX / Markdown / VS Code / Visual Studio / Eclipse / Figma / Discord / Obsidian / Blender / Adobe Illustrator / Adobe Photoshop / postman / cmake |
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,typescript,php" />
@@ -49,10 +49,11 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 
 ### OS & Infra
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,redhat" />
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,redhat,mint" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=npm,yarn,latex,md,vscode,visualstudio,eclipse,figma,discord,obsidian" />
+<img src="https://skillicons.dev/icons?i=npm,yarn,latex,md,vscode,visualstudio,eclipse,figma,discord" />
+<img src="https://skillicons.dev/icons?i=obsidian,blender,ai,ps,postman,cmake" />
 
 ### Learning
 

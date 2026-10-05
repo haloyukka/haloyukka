@@ -1,5 +1,7 @@
 # 🎤 Live Archive
 
+[← HOME](../README.md)
+
 参加したライブ・イベントのセットリストアーカイブ。
 
 - 1公演1ファイルで [`setlists/`](./setlists/) に保存（年 → イベント → 公演）

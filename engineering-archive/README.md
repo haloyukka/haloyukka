@@ -16,6 +16,7 @@ AI・Python・Cloud・Automation を中心に、技術検証や業務改善ア�
 |Base-Converter-Lookupr|<https://haloyukka.github.io/Base-Converter-Lookup/>|<https://github.com/haloyukka/Base-Converter-Lookup>|-|
 |circle_countdown_timer|<https://haloyukka.github.io/circle_countdown_timer/>|<https://github.com/haloyukka/circle_countdown_timer>|-|
 |circular_audio_spectrum|<https://haloyukka.github.io/circular_audio_spectrum/>|<https://github.com/haloyukka/circular_audio_spectrum>|-|
+|cyber-color-picker|<https://haloyukka.github.io/cyber-color-picker/>|<https://github.com/haloyukka/cyber-color-picker>|-|
 |Live-clock-blood|<https://haloyukka.github.io/Live-clock-blood/>|<https://github.com/haloyukka/Live-clock-blood>|-|
 |FRAME-SCRAMBLER|<https://haloyukka.github.io/FRAME-SCRAMBLER/>|<https://github.com/haloyukka/FRAME-SCRAMBLER>|-|
 |gerstner-water-demo |<https://haloyukka.github.io/gerstner-water-demo/>|<https://github.com/haloyukka/gerstner-water-demo>|-|

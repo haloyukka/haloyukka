@@ -35,7 +35,7 @@ AI / Python / Cloud / Automation
 Setlists / Venues / Memories
 
 [→ Explore Live Archive](./live-archive/)<br/>
-[→ History / 参加履歴](./live-archive/encore-log.md)
+[→ History / 予定・履歴](./live-archive/encore-log.md)
 
 </td>
 </tr>

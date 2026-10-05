@@ -1,6 +1,6 @@
 # encore-log
 
-[READMEに戻る](../README.md)
+[← HOME](../README.md)
 
 <div align="center">
     <h1>

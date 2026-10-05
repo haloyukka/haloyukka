@@ -1,5 +1,7 @@
 # 🎧️Music Archive
 
+[← HOME](../README.md)
+
 お気に入りの楽曲を、原曲を基準に管理するMarkdownアーカイブです。
 
 ## アーティスト別一覧

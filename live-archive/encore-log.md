@@ -2,6 +2,8 @@
 
 [← HOME](../README.md)
 
+参加したライブ・イベントのメモ
+
 <div align="center">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・

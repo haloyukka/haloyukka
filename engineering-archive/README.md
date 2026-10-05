@@ -11,6 +11,7 @@ AI・Python・Cloud・Automation を中心に、技術検証や業務改善ア�
 |Project|Pages|GitHub|備考・関連リンク|
 |:--|:--|:--|:--|
 | [LIFE.OS](./projects/life-os.md) |-|-| 🟢 Active |
+|Base-Converter-Lookupr|<https://haloyukka.github.io/Base-Converter-Lookup/>|<https://github.com/haloyukka/Base-Converter-Lookup>|-|
 |circle_countdown_timer|<https://haloyukka.github.io/circle_countdown_timer/>|<https://github.com/haloyukka/circle_countdown_timer>|-|
 |circular_audio_spectrum|<https://haloyukka.github.io/circular_audio_spectrum/>|<https://github.com/haloyukka/circular_audio_spectrum>|-|
 |Live-clock-blood|<https://haloyukka.github.io/Live-clock-blood/>|<https://github.com/haloyukka/Live-clock-blood>|-|

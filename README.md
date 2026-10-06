@@ -95,6 +95,10 @@ Stocks / Portfolio / Learning
 |---|---|
 | GitHub | [@haloyukka](https://github.com/haloyukka) |
 | monkeytype | [haloyukka](https://monkeytype.com/profile/haloyukka) |
+| X | [@halohalo_dtd](https://x.com/halohalo_dtd) |
+| X | [@halohalo_6e6e](https://x.com/halohalo_6e6e) |
+| X | [@halohalo_log](https://x.com/halohalo_log) |
+| X | [@halohalo_lab](https://x.com/halohalo_lab) |
 
 ---
 

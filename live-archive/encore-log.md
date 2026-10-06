@@ -1,6 +1,6 @@
 # encore-log
 
-[← HOME](../README.md)
+[← Live Archive](./README.md) / [← HOME](../README.md)
 
 参加したライブ・イベントのメモ
 

@@ -1,6 +1,6 @@
 # Interesting
 
-[← HOME](../README.md)
+[← Music Archive](./README.md) / [← HOME](../README.md)
 
 ## 【VSinger / VTuber】
 

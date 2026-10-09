@@ -23,7 +23,7 @@
 <td width="50%" valign="top">
 
 ### 💻 ENGINEERING
-AI / Python / Cloud / Automation
+SI / Python / Cloud / Automation
 
 [→ Explore Engineering](./engineering-archive/)<br/>
 [→ Engineer Profile / プロファイル](./engineering-archive/profile.md)

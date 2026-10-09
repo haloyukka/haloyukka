@@ -2,7 +2,7 @@
 
 [← HOME](../README.md)
 
-AI・Python・Cloud・Automation を中心に、技術検証や業務改善アイデアをまとめる場所。
+SI・Python・Cloud・Automation を中心に、技術検証や業務改善アイデアをまとめる場所。
 
 ## Profile
 

@@ -18,6 +18,12 @@
 
 ## 🥳 参加予定
 
+### MIDNIGHT STELLAR supported by GOLD DISC
+
+* 2026/10/24(日) 23:00 開場
+* ZEROTOKYO
+* <https://zerotokyo.zaiko.io/ja/e/midnight-stellar-1024>
+
 ### NIGHT HIKE 2026 in 幕張
 
 * DAY.1｜2026/10/31(土) 11:00 開場

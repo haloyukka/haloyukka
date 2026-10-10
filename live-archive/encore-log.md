@@ -35,7 +35,7 @@
 
 * 2026/12/20(日) 未定 開場
 * duo MUSIC EXCHANGE
-* <https://aoide.zaiko.io/ja/e/u-aoide-launch-party>
+* <https://tribalcon.zaiko.io/ja/e/kmnparty-vol9>
 
 ### MIX TOKYO DJ PARTY "NEO"
 

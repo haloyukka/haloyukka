@@ -26,8 +26,15 @@
 * <https://tribalcon.zaiko.io/ja/e/night-hike-2026-makuhari>
 
 ### "U" -Aoide Launch Party-
+
 * 2026/12/13(日) 14:00 開場
 * LIQUIDROOM
+* <https://aoide.zaiko.io/ja/e/u-aoide-launch-party>
+
+### KMNPARTY vol.9
+
+* 2026/12/20(日) 未定 開場
+* duo MUSIC EXCHANGE
 * <https://aoide.zaiko.io/ja/e/u-aoide-launch-party>
 
 ### MIX TOKYO DJ PARTY "NEO"

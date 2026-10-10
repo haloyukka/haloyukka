@@ -22,6 +22,7 @@ SI・Python・Cloud・Automation を中心に、技術検証や業務改善ア�
 |gerstner-water-demo |<https://haloyukka.github.io/gerstner-water-demo/>|<https://github.com/haloyukka/gerstner-water-demo>|-|
 |hakoiri-musume|<https://haloyukka.github.io/hakoiri-musume/>|<https://github.com/haloyukka/hakoiri-musume>|-|
 |design-share-lp-retro|<https://haloyukka.github.io/design-share-lp-retro/>|<https://github.com/haloyukka/design-share-lp-retro>|-|
+|prompt-form|<https://haloyukka.github.io/prompt-form/>|<https://github.com/haloyukka/prompt-form>|-|
 |tetris|<https://haloyukka.github.io/tetris/>|<https://github.com/haloyukka/tetris>|-|
 |minecraft|🔴Private|<https://github.com/haloyukka/minecraft>|-|
 |typing-test-app|🔴Private|<https://github.com/haloyukka/typing-test-app>|-|

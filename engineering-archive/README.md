@@ -14,22 +14,10 @@ SI・Python・Cloud・Automation を中心に、技術検証や業務改善ア�
 |:--|:--|:--|:--|
 | [LIFE.OS](./projects/life-os.md) |-|-| 🟢 Active |
 |Base-Converter-Lookupr|<https://haloyukka.github.io/Base-Converter-Lookup/>|<https://github.com/haloyukka/Base-Converter-Lookup>|-|
-|circle_countdown_timer|<https://haloyukka.github.io/circle_countdown_timer/>|<https://github.com/haloyukka/circle_countdown_timer>|-|
-|circular_audio_spectrum|<https://haloyukka.github.io/circular_audio_spectrum/>|<https://github.com/haloyukka/circular_audio_spectrum>|-|
 |cyber-color-picker|<https://haloyukka.github.io/cyber-color-picker/>|<https://github.com/haloyukka/cyber-color-picker>|-|
-|luminode-mock|<https://haloyukka.github.io/luminode-mock/>|<https://github.com/haloyukka/luminode-mock>|-|
-|Live-clock-blood|<https://haloyukka.github.io/Live-clock-blood/>|<https://github.com/haloyukka/Live-clock-blood>|-|
-|FRAME-SCRAMBLER|<https://haloyukka.github.io/FRAME-SCRAMBLER/>|<https://github.com/haloyukka/FRAME-SCRAMBLER>|-|
 |gerstner-water-demo |<https://haloyukka.github.io/gerstner-water-demo/>|<https://github.com/haloyukka/gerstner-water-demo>|-|
-|hakoiri-musume|<https://haloyukka.github.io/hakoiri-musume/>|<https://github.com/haloyukka/hakoiri-musume>|-|
-|design-share-lp-retro|<https://haloyukka.github.io/design-share-lp-retro/>|<https://github.com/haloyukka/design-share-lp-retro>|-|
 |prompt-form|<https://haloyukka.github.io/prompt-form/>|<https://github.com/haloyukka/prompt-form>|-|
 |tetris|<https://haloyukka.github.io/tetris/>|<https://github.com/haloyukka/tetris>|-|
-|minecraft|🔴Private|<https://github.com/haloyukka/minecraft>|-|
-|typing-test-app|🔴Private|<https://github.com/haloyukka/typing-test-app>|-|
-|ikano-maker|🔴Private|<https://github.com/haloyukka/ikano-maker>|-|
-|オンラインリバーシゲーム|🔴Private|<https://github.com/haloyukka/dev-othello-2025-06-22>|-|
-|InvestmentSimulatorApp|🔴Private|-|-|
 
 ## Format
 

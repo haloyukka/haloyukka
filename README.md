@@ -45,7 +45,7 @@
 <td width="50%" valign="top">
 
 ### 💻 ENGINEERING
-IT技術検証や業務改善アイデアをまとめる場所。
+IT技術検証やアイデアの記録
 
 [→ Explore Engineering](./engineering-archive/)<br/>
 [→ Engineer Profile / プロファイル](./engineering-archive/profile.md)
@@ -54,7 +54,7 @@ IT技術検証や業務改善アイデアをまとめる場所。
 <td width="50%" valign="top">
 
 ### 🎨 CREATIVE
-UIUX技術検証や業務改善アイデアをまとめる場所。
+UIUX技術検証やアイデアの記録
 
 [→ Explore Creative Archive](./creative-archive/)<br/>
 [→ Design Profile / プロファイル](./creative-archive/profile.md)

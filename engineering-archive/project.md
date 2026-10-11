@@ -6,8 +6,6 @@
 
 {{temp}}
 
----
-
 ## Project Index
 
 |Project|Pages|GitHub|備考・関連リンク|

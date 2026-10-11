@@ -96,4 +96,5 @@
 | - | ナナホシ管弦楽団 | <https://x.com/sosite_iwamikun> | <https://www.youtube.com/@nanakan927> | [ナナホシ管弦楽団.csv](songs/data/ナナホシ管弦楽団.csv) |
 | - | Aiobahn | <https://x.com/Aiobahn> | <https://hoo.be/aiobahn> | - |
 | - | Aiobahn +81 | <https://x.com/aiobahn81> | <https://linktr.ee/aiobahn81> | - |
+| - | 読谷あかね | <https://x.com/yomitanakane> | <https://yomitanakane.com/> | - |
 

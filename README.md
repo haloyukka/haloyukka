@@ -87,10 +87,10 @@ SI・Python・Cloud・Automation の技術検証と作ったもの
 
 ## // FEATURED
 
-### ✦ LUMINODE
-ネオン調アイソメトリックの世界観を再現したデザイン検証サイト。
+### ✦ cyber-color-picker
+推し色を探すサイバー調カラーピッカー
 
-[→ Live Demo](https://haloyukka.github.io/luminode-mock/) ・ [Code](https://github.com/haloyukka/luminode-mock)
+[→ Live Demo](https://haloyukka.github.io/cyber-color-picker/) ・ [Code](https://github.com/haloyukka/cyber-color-picker)
 
 <br/>
 
@@ -98,7 +98,7 @@ SI・Python・Cloud・Automation の技術検証と作ったもの
 |---|---|---|
 | circular_audio_spectrum | 音楽を円形に可視化するスペクトラム | [Demo](https://haloyukka.github.io/circular_audio_spectrum/) |
 | Live-clock-blood | ライブ演出風の時計 | [Demo](https://haloyukka.github.io/Live-clock-blood/) |
-| cyber-color-picker | 推し色を探すサイバー調カラーピッカー | [Demo](https://haloyukka.github.io/cyber-color-picker/) |
+| LUMINODE | ネオン調アイソメトリックの世界観を再現したデザイン検証サイト。 | [Demo](https://haloyukka.github.io/luminode-mock/) |
 | circle_countdown_timer | イベントまでのカウントダウン | [Demo](https://haloyukka.github.io/circle_countdown_timer/) |
 
 [→ すべての作品を見る](./engineering-archive/)

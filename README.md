@@ -44,19 +44,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 CREATIVE
-Webツールやデザインなど、好きを形にした創作
+### 💻 ENGINEERING
+SI・Python・Cloud・Automation 技術検証と作ったもの
 
-[→ Explore Creative Archive](./creative-archive/)
+[→ Explore Engineering](./engineering-archive/)<br/>
+[→ Engineer Profile / プロファイル](./engineering-archive/profile.md)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 ENGINEERING
-SI・Python・Cloud・Automation の技術検証と作ったもの
+### 🎨 CREATIVE
+Webツールやデザインなど  技術検証と作ったもの
 
-[→ Explore Engineering](./engineering-archive/)<br/>
-[→ Engineer Profile / プロファイル](./engineering-archive/profile.md)
+[→ Explore Creative Archive](./creative-archive/)
 
 </td>
 </tr>

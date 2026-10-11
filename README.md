@@ -45,7 +45,7 @@
 <td width="50%" valign="top">
 
 ### 💻 ENGINEERING
-SI・Python・Cloud・Automation 技術検証と作ったもの
+SI・Software・Automation 技術検証と作ったもの
 
 [→ Explore Engineering](./engineering-archive/)<br/>
 [→ Engineer Profile / プロファイル](./engineering-archive/profile.md)

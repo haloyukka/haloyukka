@@ -8,12 +8,25 @@
 
 - [セトリのテンプレート](templates/setlists/_template.md)
 
+## 【Vocaloid / 音声合成キャラクター】
 
-## アーティスト別一覧
-
-| アーティスト | 楽曲一覧 |
-| --- | --- |
-
+| グループ | 名前 | X | 公式ページ | CSV |
+|---|---|---|---|---|
+| - | 初音ミク | <https://x.com/cfm_miku> | <https://blog.piapro.net/> | - |
+| - | 足立レイ | <https://x.com/adachirei0> | <https://mechanicalgirl.jp/adachi-rei/> | - |
+| - | 重音テト | <https://x.com/twindrill_teto> | <https://kasaneteto.jp/> | - |
+| - | ずんだもん | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
+| - | 雨衣 | <https://x.com/ui_roid> | <https://www.ui-roid.com/> | - |
+| - | 音街ウナ | <https://x.com/otomachiuna> | <https://otomachiuna.jp/> | - |
+| - | IA | <https://x.com/IA_Official_> | <https://www.youtube.com/@IA_PROJECT> | - |
+| VOICEVOX | 春日部つむぎ | <https://x.com/KasukabeTsumugi> | <https://tsumugi-official.studio.site/top> | - |
+| VOICEVOX | 雨晴はう | <https://x.com/hau_hareu> | <https://www.youtube.com/@ameharehau4292> | - |
+| TOKYO6 | 小春六花 | <https://x.com/rikka_info> | <https://tokyo6.tokyo/koharurikka/> | - |
+| TOKYO6 | 夏色花梨 | <https://x.com/karin_info1> | <https://tokyo6.tokyo/natsukikarin/> | - |
+| TOKYO6 | 花隈千冬 | <https://x.com/chifuyu_info> | <https://tokyo6.tokyo/hanakumachifuyu/> | - |
+| 東北三姉妹 | 東北ずん子 | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
+| 東北三姉妹 | 東北イタコ | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
+| 東北三姉妹 | 東北きりたん | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
 
 ## 【VSinger / VTuber】
 
@@ -24,37 +37,19 @@
 | KMNZ | NERO | <https://twitter.com/kmnznero_> | <https://rkmusic.jp/artist/316/> | - |
 | HONKTHEHORN | MOCO | <https://twitter.com/hth_moco> | <https://rkmusic.jp/artist/249/> | - |
 | HONKTHEHORN | BAMBI | <https://twitter.com/hth_bambi> | <https://rkmusic.jp/artist/249/> | - |
-| - | 名取さな | <https://twitter.com/sana_natori> | <https://natorisana.com/> |-|
-| ぽんこつMC(PNKTMC) | poco.exe | <https://x.com/pocodotexe> | - | - |
-| ぽんこつMC(PNKTMC) | 齋藤のんのん | <https://x.com/nn2sso> | - | - |
-| ぽんこつMC(PNKTMC) | 米田らん* | <https://x.com/komeda_run> | - | - |
-| ぽんこつMC(PNKTMC) | 春日部つくし | <https://x.com/kasukaBe_nyoki> | - | - |
 | 罪十罰 | 氷夏至 | <https://x.com/hinageshi_gr> | <https://girlsrevolutionproject.jp/> | - |
 | 罪十罰 | 美古途 | <https://x.com/mikoto_gr> | <https://girlsrevolutionproject.jp/> | - |
 | 罪十罰 | 夕凪機 | <https://x.com/yunagi_gr> | <https://girlsrevolutionproject.jp/> | - |
 | 心世紀 | 御莉姫 | <https://x.com/orihime_gr> | <https://girlsrevolutionproject.jp/> | - |
 | 心世紀 | 佳鏡院 | <https://x.com/kakyoin_gr> | <https://girlsrevolutionproject.jp/> | - |
 | 心世紀 | 硝子宮 | <https://x.com/garasumiya_gr> | <https://girlsrevolutionproject.jp/> | - |
+| ぽんこつMC(PNKTMC) | poco.exe | <https://x.com/pocodotexe> | - | - |
+| ぽんこつMC(PNKTMC) | 齋藤のんのん | <https://x.com/nn2sso> | - | - |
+| ぽんこつMC(PNKTMC) | 米田らん* | <https://x.com/komeda_run> | - | - |
+| ぽんこつMC(PNKTMC) | 春日部つくし | <https://x.com/kasukaBe_nyoki> | - | - |
 | 電音部 | - | <https://x.com/denonbu> | <https://denonbu.jp/first-step> | - |
+| - | 名取さな | <https://twitter.com/sana_natori> | <https://natorisana.com/> |-|
 | - | 星宮とと | <https://x.com/hoshimiya_toto> | <https://hoshimiyatoto.com/> | - |
-| - | 中村さんそ | <https://x.com/sanso_o3> | <https://www.youtube.com/@nakamurasanso> | - |
-| - | nyankobrq | <https://x.com/nyankobrq> | <https://www.youtube.com/@nyankobrq> | - |
-
-## 【Vocaloid / 音声合成キャラクター】
-
-| グループ | 名前 | X | 公式ページ | CSV |
-|---|---|---|---|---|
-| - | 初音ミク | <https://x.com/cfm_miku> | <https://blog.piapro.net/> | - |
-| - | 重音テト | <https://x.com/twindrill_teto> | <https://kasaneteto.jp/> | - |
-| - | ずんだもん | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
-| 東北三姉妹 | 東北ずん子 | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
-| 東北三姉妹 | 東北イタコ | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
-| 東北三姉妹 | 東北きりたん | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
-| TOKYO6 | 小春六花 | <https://x.com/rikka_info> | <https://tokyo6.tokyo/koharurikka/> | - |
-| TOKYO6 | 夏色花梨 | <https://x.com/karin_info1> | <https://tokyo6.tokyo/natsukikarin/> | - |
-| TOKYO6 | 花隈千冬 | <https://x.com/chifuyu_info> | <https://tokyo6.tokyo/hanakumachifuyu/> | - |
-| - | 雨衣 | <https://x.com/ui_roid> | <https://www.ui-roid.com/> | - |
-| - | 足立レイ | <https://x.com/adachirei0> | <https://mechanicalgirl.jp/adachi-rei/> | - |
 
 ## 【東方Project】 <https://x.com/korindo>
 
@@ -97,4 +92,6 @@
 | - | Aiobahn | <https://x.com/Aiobahn> | <https://hoo.be/aiobahn> | - |
 | - | Aiobahn +81 | <https://x.com/aiobahn81> | <https://linktr.ee/aiobahn81> | - |
 | - | 読谷あかね | <https://x.com/yomitanakane> | <https://yomitanakane.com/> | - |
+| - | 中村さんそ | <https://x.com/sanso_o3> | <https://www.youtube.com/@nakamurasanso> | - |
+| - | nyankobrq | <https://x.com/nyankobrq> | <https://www.youtube.com/@nyankobrq> | - |
 

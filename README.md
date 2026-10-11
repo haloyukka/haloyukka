@@ -23,7 +23,7 @@
 <td width="50%" valign="top">
 
 ### 💻 ENGINEERING
-SI / Python / Cloud / Automation
+IT技術関連
 
 [→ Explore Engineering](./engineering-archive/)<br/>
 [→ Engineer Profile / プロファイル](./engineering-archive/profile.md)
@@ -32,7 +32,7 @@ SI / Python / Cloud / Automation
 <td width="50%" valign="top">
 
 ### 🎤 LIVE
-Setlists / Venues / Memories
+イベント関連
 
 [→ Explore Live Archive](./live-archive/)<br/>
 [→ History / 予定・履歴](./live-archive/encore-log.md)
@@ -44,7 +44,7 @@ Setlists / Venues / Memories
 <td>
 
 ### 🎧 MUSIC
-Vocaloid / Favorite tracks / Playlists
+音楽関連
 
 [→ Explore Music Archive](./music-archive/)
 
@@ -52,7 +52,7 @@ Vocaloid / Favorite tracks / Playlists
 <td>
 
 ### 🎨 CREATIVE
-Illustration / Image generation / Design
+創作関連
 
 [→ Explore Creative Archive](./creative-archive/)
 
@@ -63,7 +63,7 @@ Illustration / Image generation / Design
 <td>
 
 ### 📓 DAILY
-Notes / Events / Small discoveries
+記録関連
 
 [→ Explore Daily Log](./daily-log/)
 
@@ -71,7 +71,7 @@ Notes / Events / Small discoveries
 <td width="50%" valign="top">
 
 ### 📈 INVESTMENT
-Stocks / Portfolio / Learning
+株式投資関連
 
 [→ Explore Investment](./investment-archive/)
 

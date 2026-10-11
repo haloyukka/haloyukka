@@ -54,7 +54,7 @@ SI・Software・Automation 技術検証と作ったもの
 <td width="50%" valign="top">
 
 ### 🎨 CREATIVE
-Webツールやデザインなど  技術検証と作ったもの
+Webツール・デザインなど  技術検証と作ったもの
 
 [→ Explore Creative Archive](./creative-archive/)
 

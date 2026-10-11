@@ -48,8 +48,8 @@
 IT技術検証やアイデアの記録
 
 [→ Explore Engineering](./engineering-archive/)<br/>
-[→ Engineer Profile / プロファイル](./engineering-archive/profile.md)<br/>
-[→ Engineer Project / 成果物](./engineering-archive/project.md)
+[→ Profile / プロファイル](./engineering-archive/profile.md)<br/>
+[→ Project / 成果物](./engineering-archive/project.md)
 
 </td>
 <td width="50%" valign="top">
@@ -58,8 +58,8 @@ IT技術検証やアイデアの記録
 UIUX技術検証やアイデアの記録
 
 [→ Explore Creative Archive](./creative-archive/)<br/>
-[→ Creative Profile / プロファイル](./creative-archive/profile.md)<br/>
-[→ Creative Project / 成果物](./creative-archive/project.md)
+[→ Profile / プロファイル](./creative-archive/profile.md)<br/>
+[→ Project / 成果物](./creative-archive/project.md)
 
 </td>
 </tr>

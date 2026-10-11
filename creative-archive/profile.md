@@ -1,1 +1,64 @@
+# 🎨 Creative Profile
 
+[← Creative Archive](./README.md) / [← HOME](../README.md)
+
+## Summary
+
+{{temp}}
+
+## Skills
+
+| Level | 意味 |
+|---|---|
+| **Main** | 主に使っている技術 |
+| **Familiar** | 使ったことがある技術 |
+| **Learning** | 学習中の技術 |
+
+### Main
+
+`Python` `SQL` `GCP` `AWS` `GitHub` `Generative AI`
+
+<img src="https://skillicons.dev/icons?i=python,gcp,aws,github" alt="Python, GCP, AWS, GitHub" />
+
+### Familiar
+
+| Category | Skills |
+|---|---|
+| Languages | C / C++ / C# / Java / HTML / CSS / JavaScript / TypeScript / PHP |
+| Libraries & Frameworks | OpenCV / Qt / Django / FastAPI / React / Vue / Next.js / jQuery / Vite |
+| Platforms | Github / GitLab / Git / Firebase / Node.js |
+| Databases | MySQL / PostgreSQL / SQLite |
+| OS & Infra | Docker / Linux / Ubuntu / Red Hat / mint / Windows |
+| Tools | npm / Yarn / LaTeX / Markdown / VS Code / Visual Studio / Eclipse / Figma / Discord / Obsidian / Blender / Adobe Illustrator / Adobe Photoshop / postman / cmake |
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,typescript,php" />
+
+### Library & Framework
+<img src="https://skillicons.dev/icons?i=opencv,qt,django,fastapi,react,vue,next,jquery,vite" />
+
+### Platforms
+<img src="https://skillicons.dev/icons?i=github,gitlab,git,aws,gcp,firebase,nodejs" />
+
+### DataBase
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+### OS & Infra
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,redhat,mint" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=npm,yarn,latex,md,vscode,visualstudio,eclipse,figma,discord" />
+<img src="https://skillicons.dev/icons?i=obsidian,blender,ai,ps,postman,cmake" />
+
+### Learning
+
+`Rust` `Jenkins` `PowerShell` `Terraform` `Raspberry Pi`
+
+<img src="https://skillicons.dev/icons?i=rust,jenkins,powershell,terraform,raspberrypi" alt="Rust, Jenkins, PowerShell, Terraform, Raspberry Pi" />
+
+## GITHUB STATS
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haloyukka&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haloyukka&theme=tokyonight&utcOffset=9)

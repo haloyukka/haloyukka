@@ -2,16 +2,14 @@
 
 [← Engineering Archive](./README.md) / [← HOME](../README.md)
 
-## // SUMMARY
+## Summary
 
 > Software Engineer / AI × Engineering / Tokyo
 
 - **Focus:** Generative AI の業務活用 / Python による自動化 / GCP・AWS のクラウド / SQL・データ処理
 - **Style:** 仕組みで解決する。人間が読めて、機械も扱える形でデータと手順を残す
 
----
-
-## // SKILLS
+## Skills
 
 | Level | 意味 |
 |---|---|
@@ -61,17 +59,7 @@
 
 <img src="https://skillicons.dev/icons?i=rust,jenkins,powershell,terraform,raspberrypi" alt="Rust, Jenkins, PowerShell, Terraform, Raspberry Pi" />
 
----
-
-## // PROJECTS
-
-| Project | Type | Status |
-|---|---|---|
-| [LIFE.OS](./projects/life-os.md) | Personal data archive / AI-assisted content pipeline | 🟢 Active |
-
----
-
-## // GITHUB STATS
+## GITHUB STATS
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haloyukka&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haloyukka&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haloyukka&theme=tokyonight)

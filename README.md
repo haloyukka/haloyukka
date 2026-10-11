@@ -25,7 +25,7 @@
 <td width="50%" valign="top">
 
 ### 🎤 LIVE
-ボカロ系ライブ・イベントの参戦記録
+ライブ・イベントの参戦記録
 
 [→ Explore Live Archive](./live-archive/)<br/>
 [→ History / 予定・履歴](./live-archive/encore-log.md)

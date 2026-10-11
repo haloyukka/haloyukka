@@ -18,7 +18,7 @@
 
 ---
 
-## // EXPLORE
+## 🔎 EXPLORE
 
 <table>
 <tr>
@@ -81,34 +81,34 @@ UIUX技術検証やアイデアの記録
 
 ---
 
-## // TYPING
+## ⌨️ TYPING
 
 - Keyboard: REALFORCE R3S（有線 / フル / 45g / 英語配列 / ブラック / R3SB11）
 - Record: [monkeytype](https://monkeytype.com/profile/haloyukka)
 
 ---
 
-## // FEATURED
+## 🤪 FEATURED
 
-### ✦ cyber-color-picker
-推し色を探すサイバー調カラーピッカー
+### 💻 ENGINEERING
 
-[→ Live Demo](https://haloyukka.github.io/cyber-color-picker/) ・ [Code](https://github.com/haloyukka/cyber-color-picker)
-
-<br/>
-
-| Tool | ひとこと | Link |
-|---|---|---|
-| circular_audio_spectrum | 音楽を円形に可視化するスペクトラム | [Demo](https://haloyukka.github.io/circular_audio_spectrum/) |
-| Live-clock-blood | ライブ演出風の時計 | [Demo](https://haloyukka.github.io/Live-clock-blood/) |
-| LUMINODE | ネオン調アイソメトリックの世界観を再現したデザイン検証サイト。 | [Demo](https://haloyukka.github.io/luminode-mock/) |
-| circle_countdown_timer | イベントまでのカウントダウン | [Demo](https://haloyukka.github.io/circle_countdown_timer/) |
+- ✦ cyber-color-picker
+  - 推し色を探すサイバー調カラーピッカー
+  - [→ Live Demo](https://haloyukka.github.io/cyber-color-picker/) ・ [Code](https://github.com/haloyukka/cyber-color-picker)
 
 [→ すべての作品を見る](./engineering-archive/)
 
+### 🎨 CREATIVE
+
+- ✦ design-share-lp-retro
+  - CRT 風ランディングページ。
+  - [→ Live Demo](https://haloyukka.github.io/design-share-lp-retro/) ・ [Code](https://github.com/haloyukka/design-share-lp-retro)
+
+[→ すべての作品を見る](./creative-archive/)
+
 ---
 
-## // LINKS
+## 🌐 LINKS
 
 | Service | Link | |
 |---|---|---|

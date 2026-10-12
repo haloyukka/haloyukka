@@ -64,16 +64,6 @@ UIUX技術検証の記録
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top">
-
-<sub>📓 [Daily Log](./daily-log/) — 日々の記録</sub>
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
 </table>
 
 ---
@@ -117,6 +107,7 @@ UIUX技術検証の記録
 ---
 
 <sub>📈 [Investment Archive](./investment-archive/) — 株式投資の記録</sub>
+<sub>📓 [Daily Log](./daily-log/) — 日々の記録</sub>
 
 <div align="center">
 

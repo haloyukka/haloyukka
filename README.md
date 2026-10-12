@@ -87,7 +87,7 @@ UIUX技術検証の記録
   - {{変数名}} を含むプロンプトを貼り付けると、入力フォームがその場でできます。
   - [→ Live Demo](https://haloyukka.github.io/prompt-form/) ・ [Code](https://github.com/haloyukka/prompt-form)
 
-[→ すべての作品を見る](./engineering-archive/)
+[→ すべてを見る](./engineering-archive/)
 
 ### 🎨 CREATIVE
 
@@ -95,7 +95,7 @@ UIUX技術検証の記録
   - CRT 風ランディングページ。
   - [→ Live Demo](https://haloyukka.github.io/design-share-lp-retro/) ・ [Code](https://github.com/haloyukka/design-share-lp-retro)
 
-[→ すべての作品を見る](./creative-archive/)
+[→ すべてを見る](./creative-archive/)
 
 ---
 

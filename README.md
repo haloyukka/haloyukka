@@ -67,10 +67,7 @@ UIUX技術検証の記録
 <tr>
 <td width="50%" valign="top">
 
-### 📓 DAILY
-日々の記録
-
-[→ Explore Daily Log](./daily-log/)
+<sub>📓 [Daily Log](./daily-log/) — 日々の記録</sub>
 
 </td>
 <td width="50%" valign="top">

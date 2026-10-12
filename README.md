@@ -25,7 +25,7 @@
 <td width="50%" valign="top">
 
 ### 🎤 LIVE
-ライブ・イベントの参戦記録
+イベントの記録
 
 [→ Explore Live Archive](./live-archive/)<br/>
 [→ History / 予定・履歴](./live-archive/encore-log.md)
@@ -45,7 +45,7 @@
 <td width="50%" valign="top">
 
 ### 💻 ENGINEERING
-IT技術検証やアイデアの記録
+IT技術検証の記録
 
 [→ Explore Engineering](./engineering-archive/)<br/>
 [→ Profile / プロファイル](./engineering-archive/profile.md)<br/>
@@ -55,7 +55,7 @@ IT技術検証やアイデアの記録
 <td width="50%" valign="top">
 
 ### 🎨 CREATIVE
-UIUX技術検証やアイデアの記録
+UIUX技術検証の記録
 
 [→ Explore Creative Archive](./creative-archive/)<br/>
 [→ Profile / プロファイル](./creative-archive/profile.md)<br/>

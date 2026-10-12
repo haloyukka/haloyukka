@@ -89,3 +89,4 @@
 | - | 読谷あかね | <https://x.com/yomitanakane> | <https://yomitanakane.com/> | - |
 | - | 中村さんそ | <https://x.com/sanso_o3> | <https://www.youtube.com/@nakamurasanso> | - |
 | - | nyankobrq | <https://x.com/nyankobrq> | <https://www.youtube.com/@nyankobrq> | - |
+| - | r-906 | <https://x.com/arukuremu> | <https://www.youtube.com/@r-906> | - |

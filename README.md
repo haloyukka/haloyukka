@@ -34,7 +34,7 @@
 <td width="50%" valign="top">
 
 ### 🎧 MUSIC
-ボカロを中心とした音楽の記録
+音楽の記録
 
 [→ Explore Music Archive](./music-archive/)
 

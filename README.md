@@ -36,7 +36,8 @@
 ### 🎧 MUSIC
 音楽の記録
 
-[→ README](./music-archive/)
+[→ README](./music-archive/)<br/>
+[→ Artist / 興味](./music-archive/artist.md)
 
 </td>
 </tr>

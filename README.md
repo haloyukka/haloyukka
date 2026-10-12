@@ -83,6 +83,9 @@ UIUX技術検証の記録
 - ✦ cyber-color-picker
   - 推し色を探すサイバー調カラーピッカー
   - [→ Live Demo](https://haloyukka.github.io/cyber-color-picker/) ・ [Code](https://github.com/haloyukka/cyber-color-picker)
+- ✦ Prompt Form
+  - {{変数名}} を含むプロンプトを貼り付けると、入力フォームがその場でできます。
+  - [→ Live Demo](https://haloyukka.github.io/prompt-form/) ・ [Code](https://github.com/haloyukka/prompt-form)
 
 [→ すべての作品を見る](./engineering-archive/)
 

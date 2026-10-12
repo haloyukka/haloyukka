@@ -27,7 +27,7 @@
 ### 🎤 LIVE
 イベントの記録
 
-[→ Explore Live Archive](./live-archive/)<br/>
+[→ README](./live-archive/)<br/>
 [→ History / 予定・履歴](./live-archive/encore-log.md)
 
 </td>
@@ -36,7 +36,7 @@
 ### 🎧 MUSIC
 音楽の記録
 
-[→ Explore Music Archive](./music-archive/)
+[→ README](./music-archive/)
 
 </td>
 </tr>
@@ -47,7 +47,7 @@
 ### 💻 ENGINEERING
 IT技術検証の記録
 
-[→ Explore Engineering](./engineering-archive/)<br/>
+[→ README](./engineering-archive/)<br/>
 [→ Profile / プロファイル](./engineering-archive/profile.md)<br/>
 [→ Project / 成果物](./engineering-archive/project.md)
 
@@ -57,7 +57,7 @@ IT技術検証の記録
 ### 🎨 CREATIVE
 UIUX技術検証の記録
 
-[→ Explore Creative Archive](./creative-archive/)<br/>
+[→ README](./creative-archive/)<br/>
 [→ Profile / プロファイル](./creative-archive/profile.md)<br/>
 [→ Project / 成果物](./creative-archive/project.md)
 

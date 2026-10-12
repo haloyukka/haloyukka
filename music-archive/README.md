@@ -8,7 +8,9 @@
 
 - [セトリのテンプレート](templates/setlists/_template.md)
 
-## 【Vocaloid / 音声合成キャラクター】
+## 関心事
+
+### 【Vocaloid / 音声合成キャラクター】
 
 | グループ | 名前 | X | 公式ページ | CSV |
 |---|---|---|---|---|
@@ -28,7 +30,7 @@
 | 東北三姉妹 | 東北イタコ | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
 | 東北三姉妹 | 東北きりたん | <https://x.com/t_zunko> | <https://zunko.jp/> | - |
 
-## 【VSinger / VTuber】
+### 【VSinger / VTuber】
 
 | グループ | 名前 | X | 公式ページ | CSV |
 |---|---|---|---|---|
@@ -51,7 +53,7 @@
 | - | 名取さな | <https://twitter.com/sana_natori> | <https://natorisana.com/> |-|
 | - | 星宮とと | <https://x.com/hoshimiya_toto> | <https://hoshimiyatoto.com/> | - |
 
-## 【東方Project】 <https://x.com/korindo>
+### 【東方Project】 <https://x.com/korindo>
 
 | グループ | 名前 | X | 公式ページ | CSV |
 |---|---|---|---|---|
@@ -59,7 +61,7 @@
 | - | 森羅万象/Shinra-Bansho | <https://x.com/shinra__bansho> | <https://www.youtube.com/@Shinrabansho_music> | - |
 | - | 豚乙女 | <https://x.com/butaotome> | <https://www.youtube.com/@butaotome_official> | - |
 
-## 【Producer / Music / Project】
+### 【Producer / Music / Project】
 
 | グループ | 名前 | X | 公式ページ | CSV |
 |---|---|---|---|---|
@@ -94,4 +96,3 @@
 | - | 読谷あかね | <https://x.com/yomitanakane> | <https://yomitanakane.com/> | - |
 | - | 中村さんそ | <https://x.com/sanso_o3> | <https://www.youtube.com/@nakamurasanso> | - |
 | - | nyankobrq | <https://x.com/nyankobrq> | <https://www.youtube.com/@nyankobrq> | - |
-

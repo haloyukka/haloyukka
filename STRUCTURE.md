@@ -23,9 +23,7 @@ haloyukka/
 ├─ music-archive/
 ├─ food-archive/
 │  └─ data/
-├─ creative-archive/
-└─ daily-log/
-   └─ 2026/
+└─ creative-archive/
 ```
 
 ## Recommended production setup
@@ -38,5 +36,4 @@ haloyukka/
 - `haloyukka/haloyukka`
 - `haloyukka/live-archive`
 - `haloyukka/food-archive`
-- `haloyukka/daily-log`
 - `haloyukka/creative-archive`

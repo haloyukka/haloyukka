@@ -51,7 +51,7 @@ flowchart LR
 
 | type | 用途 | 例 |
 |---|---|---|
-| `content/` | アーカイブの記録追加・更新（ライブ・グルメ・日記など） | `content/magical-mirai-2026-osaka-day` |
+| `content/` | アーカイブの記録追加・更新（ライブ・グルメなど） | `content/magical-mirai-2026-osaka-day` |
 | `feat/` | 新しいセクション・仕組みの追加 | `feat/engineer-profile` |
 | `fix/` | 誤り・リンク切れの修正 | `fix/encore-log-link` |
 | `docs/` | 規約・手順書の更新 | `docs/git-workflow` |

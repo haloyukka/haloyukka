@@ -44,6 +44,7 @@
 | ぽんこつMC(PNKTMC) | 春日部つくし | <https://x.com/kasukaBe_nyoki> | - | - |
 | 電音部 | - | <https://x.com/denonbu> | <https://denonbu.jp/first-step> | - |
 | - | 理芽 | <https://x.com/RIM_virtual> | <https://linktr.ee/RIM_VIRTUAL> |-|
+| - | 花譜 | <https://x.com/virtual_kaf> | <https://www.youtube.com/@virtual_kaf> |-|
 | - | 名取さな | <https://twitter.com/sana_natori> | <https://natorisana.com/> |-|
 | - | 星宮とと | <https://x.com/hoshimiya_toto> | <https://hoshimiyatoto.com/> | - |
 

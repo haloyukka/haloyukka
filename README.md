@@ -104,7 +104,7 @@ UIUX技術検証の記録
 | Service | Link | |
 |---|---|---|
 | X | [@halohalo_6e6e](https://x.com/halohalo_6e6e) | ボカロ / イベント / 趣味 |
-| X | [@halohalo_dtd](https://x.com/halohalo_dtd) | 日常 / IT関連 |
+| X | [@halohalo_dtd](https://x.com/halohalo_dtd) | 日常 / IT関連 / 株価チェック |
 | GitHub | [@haloyukka](https://github.com/haloyukka) | コード |
 | monkeytype | [haloyukka](https://monkeytype.com/profile/haloyukka) | タイピング記録 |
 

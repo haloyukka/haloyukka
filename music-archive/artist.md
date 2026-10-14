@@ -69,6 +69,7 @@
 | - | YUC'e ゆーしえ | <https://x.com/yuce_e> | <https://yucelinks.carrd.co/> | - |
 | - | PSYQUI | <https://x.com/_PSYQUI_> | <https://www.youtube.com/@_PSYQUI_> | - |
 | - | TEMPLIME | <https://x.com/TEMPLIME> | <https://templi.me/> | - |
+| - | TeddyLoid | <https://x.com/TeddyLoid> | <https://www.teddyloid.com/> | - |
 | - | TAKU INOUE | <https://x.com/ino_tac> | <https://taku-inoue.com/> | - |
 | - | kz(livetune) | <https://x.com/kz_lt> | <https://www.youtube.com/@kzlivetune> | - |
 | - | yuigot | <https://x.com/ygt_jpn> | <https://linktr.ee/yuigot> | - |

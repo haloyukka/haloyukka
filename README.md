@@ -86,6 +86,9 @@ UIUX技術検証の記録
 - ✦ Prompt Form
   - {{変数名}} を含むプロンプトを貼り付けると、入力フォームがその場でできます。
   - [→ Live Demo](https://haloyukka.github.io/prompt-form/) ・ [Code](https://github.com/haloyukka/prompt-form)
+- ✦ SVG Image Converter
+  - SVGをブラウザ内で処理し、PNG / JPEG / WebP / GIF（静止画）/ BMP / TIFF / ICOへ変換する
+  - [→ Live Demo](https://haloyukka.github.io/svg-image-converter/) ・ [Code](https://github.com/haloyukka/svg-image-converter)
 
 [→ すべてを見る](./engineering-archive/project.md)
 

@@ -31,6 +31,12 @@
 * 幕張メッセ 国際展示場 9～11ホール
 * <https://tribalcon.zaiko.io/ja/e/night-hike-2026-makuhari>
 
+### GOLD DISC
+
+* 2026/11/21(土) 23:00 開場
+* ZEROTOKYO
+* <https://zerotokyo.zaiko.io/ja/e/gold-disc-1121>
+
 ### "U" -Aoide Launch Party-
 
 * 2026/12/13(日) 14:00 開場

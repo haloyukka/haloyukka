@@ -33,7 +33,8 @@
 
 ### GOLD DISC
 
-* 2026/11/21(土) 23:00 開場
+* DAY   | 2026/11/21(土) 14:00 開場
+* NIGHT | 2026/11/21(土) 23:00 開場
 * ZEROTOKYO
 * <https://zerotokyo.zaiko.io/ja/e/gold-disc-1121>
 

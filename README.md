@@ -106,6 +106,17 @@ UIUX技術検証の記録
 
 [→ すべてを見る](./creative-archive/project.md)
 
+### 🎮 GAME
+
+- ✦ hakoiri-musume
+  - 箱入り娘
+  - [→ Live Demo](https://haloyukka.github.io/hakoiri-musume/) ・ [Code](https://github.com/haloyukka/hakoiri-musume)
+- ✦ tetris
+  - テトリス
+  - [→ Live Demo](https://haloyukka.github.io/tetris/) ・ [Code](https://github.com/haloyukka/tetris)
+
+[→ すべてを見る](./creative-archive/project.md)
+
 ---
 
 ## 🌐 LINKS

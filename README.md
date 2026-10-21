@@ -98,8 +98,11 @@ UIUX技術検証の記録
   - 波のゆらぎシミュレーター
   - [→ Live Demo](https://haloyukka.github.io/gerstner-water-demo/) ・ [Code](https://github.com/haloyukka/gerstner-water-demo)
 - ✦ design-share-lp-retro
-  - CRT 風ランディングページ。
+  - CRT 風ランディングページ
   - [→ Live Demo](https://haloyukka.github.io/design-share-lp-retro/) ・ [Code](https://github.com/haloyukka/design-share-lp-retro)
+- ✦ bg-patterns
+  - 背景パターン集
+  - [→ Live Demo](https://haloyukka.github.io/bg-patterns/) ・ [Code](https://github.com/haloyukka/bg-patterns)
 - ✦ circular_audio_spectrum
   - 円形オーディオスペクトラム
   - [→ Live Demo](https://haloyukka.github.io/circular_audio_spectrum/) ・ [Code](https://github.com/haloyukka/circular_audio_spectrum)

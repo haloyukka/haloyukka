@@ -13,6 +13,7 @@
 |Project|Pages|GitHub|備考・関連リンク|
 |:--|:--|:--|:--|
 |gerstner-water-demo |<https://haloyukka.github.io/gerstner-water-demo/>|<https://github.com/haloyukka/gerstner-water-demo>|🟢 Active|
+|bg-patterns|<https://haloyukka.github.io/bg-patterns/>|<https://github.com/haloyukka/bg-patterns>|🟢 Active|
 |design-share-lp-retro|<https://haloyukka.github.io/design-share-lp-retro/>|<https://github.com/haloyukka/design-share-lp-retro>|🟢 Active|
 |circle_countdown_timer|<https://haloyukka.github.io/circle_countdown_timer/>|<https://github.com/haloyukka/circle_countdown_timer>|🟢 Active|
 |circular_audio_spectrum|<https://haloyukka.github.io/circular_audio_spectrum/>|<https://github.com/haloyukka/circular_audio_spectrum>|🟢 Active|

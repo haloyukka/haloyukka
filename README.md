@@ -106,6 +106,9 @@ UIUX技術検証の記録
 - ✦ circular_audio_spectrum
   - 円形オーディオスペクトラム
   - [→ Live Demo](https://haloyukka.github.io/circular_audio_spectrum/) ・ [Code](https://github.com/haloyukka/circular_audio_spectrum)
+- ✦ ghosts
+  - 夜のゆうれい通り
+  - [→ Live Demo](https://haloyukka.github.io/ghosts/) ・ [Code](https://github.com/haloyukka/ghosts)
 
 [→ すべてを見る](./creative-archive/project.md)
 

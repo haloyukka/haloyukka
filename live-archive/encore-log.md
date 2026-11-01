@@ -18,13 +18,6 @@
 
 ## 🥳 参加予定
 
-### NIGHT HIKE 2026 in 幕張
-
-* DAY.1｜2026/10/31(土) 11:00 開場
-* DAY.2｜2026/11/01(日) 11:00 開場
-* 幕張メッセ 国際展示場 9～11ホール
-* <https://tribalcon.zaiko.io/ja/e/night-hike-2026-makuhari>
-
 ### GOLD DISC
 
 * DAY   | 2026/11/21(土) 14:00 開場
@@ -60,6 +53,13 @@
 * <https://pjsekai.sega.jp/colorfullive/6th-crossing/index.html>
 
 ## 📜 History
+
+### NIGHT HIKE 2026 in 幕張
+
+* DAY.1｜2026/10/31(土) 11:00 開場
+* DAY.2｜2026/11/01(日) 11:00 開場
+* 幕張メッセ 国際展示場 9～11ホール
+* <https://tribalcon.zaiko.io/ja/e/night-hike-2026-makuhari>
 
 ### MIDNIGHT STELLAR supported by GOLD DISC
 

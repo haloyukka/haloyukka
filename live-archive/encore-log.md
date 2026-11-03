@@ -37,6 +37,13 @@
 * duo MUSIC EXCHANGE
 * <https://tribalcon.zaiko.io/ja/e/kmnparty-vol9>
 
+### HYPERSAW/超躁
+
+* 2027年02月20日 (土) 16:00 会場
+* WOMB
+* <https://tribalcon.zaiko.io/ja/e/hypersaw-utsu-p-oneman>
+* ※応募抽選中
+
 ### MIX TOKYO DJ PARTY "NEO"
 
 * 2027/02/27 (土) 23:00 開場

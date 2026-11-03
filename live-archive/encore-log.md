@@ -42,7 +42,9 @@
 * 2027年02月20日 (土) 16:00 会場
 * WOMB
 * <https://tribalcon.zaiko.io/ja/e/hypersaw-utsu-p-oneman>
-* ※応募抽選中
+
+> [!NOTE]
+> ※応募抽選中
 
 ### MIX TOKYO DJ PARTY "NEO"
 
@@ -50,6 +52,7 @@
 * namcoTOKYO / ZEROTOKYO（東京都）
 * <https://livepocket.jp/e/mixtokyo_neo>
 
+> [!NOTE]
 > ※【Aチケット】のお客様はZEROTOKYOにて受付をお願い致します。<br>
 >　「23:00」整列開始、「23:30」より入場開始となります。
 

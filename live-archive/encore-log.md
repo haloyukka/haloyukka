@@ -18,6 +18,12 @@
 
 ## 🥳 参加予定
 
+### Cybertokyo
+
+* 2026/11/06(金) 23:00 開場
+* ZEROTOKYO
+* <https://zerotokyo.zaiko.io/ja/e/cybertokyo-1106>
+
 ### GOLD DISC
 
 * DAY   | 2026/11/21(土) 14:00 開場

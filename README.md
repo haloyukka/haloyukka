@@ -109,6 +109,9 @@ UIUX技術検証の記録
 - ✦ ghosts
   - 夜のゆうれい通り
   - [→ Live Demo](https://haloyukka.github.io/ghosts/) ・ [Code](https://github.com/haloyukka/ghosts)
+- ✦ after-the-last-train
+  - 終電のあと
+  - [→ Live Demo](https://haloyukka.github.io/after-the-last-train/) ・ [Code](https://github.com/haloyukka/after-the-last-train)
 
 [→ すべてを見る](./creative-archive/project.md)
 

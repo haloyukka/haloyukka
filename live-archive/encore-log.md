@@ -25,6 +25,12 @@
 * ZEROTOKYO
 * <https://zerotokyo.zaiko.io/ja/e/gold-disc-1121>
 
+### BEATCITY JAPAN MUSIC presents BEATCITY JAPAN 2027 PRE
+
+* 2026/12/12(土) 16:15 開場
+* Veats Shibuya
+* <https://www.beatcityjapan.com/>
+
 ### "U" -Aoide Launch Party-
 
 * 2026/12/13(日) 14:00 開場

@@ -18,13 +18,6 @@
 
 ## 🥳 参加予定
 
-### GOLD DISC
-
-* DAY   | 2026/11/21(土) 14:00 開場
-* NIGHT | 2026/11/21(土) 23:00 開場
-* ZEROTOKYO
-* <https://zerotokyo.zaiko.io/ja/e/gold-disc-1121>
-
 ### BEATCITY JAPAN MUSIC presents BEATCITY JAPAN 2027 PRE
 
 * 2026/12/12(土) 16:15 開場
@@ -69,6 +62,13 @@
 * <https://pjsekai.sega.jp/colorfullive/6th-crossing/index.html>
 
 ## 📜 History
+
+### GOLD DISC
+
+* DAY   | 2026/11/21(土) 14:00 開場
+* NIGHT | 2026/11/21(土) 23:00 開場
+* ZEROTOKYO
+* <https://zerotokyo.zaiko.io/ja/e/gold-disc-1121>
 
 ### Cybertokyo
 
